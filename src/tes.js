@@ -1,1 +1,1 @@
-console.log("tes aja dulu")
+console.log("tes aja dulu") 
